@@ -17,7 +17,7 @@ Nesta aplicação, podemos listar, adicionar e excluir os repositórios, utiliza
 Desafio proposto em: https://github.com/Rocketseat/bootcamp-gostack-desafios/blob/master/desafio-conceitos-reactjs/README.md
 
 ## 🚀 **Instalação**
-1 - Clonar o [repositório](https://github.com/MateusTymoniuk/bootcamp-gostack-desafio-03) em seu computador;
+1 - Clonar o [repositório](https://github.com/MateusTymoniuk/gostack2020-desafio03-conceitos-reactjs) em seu computador;
 
 2 - **Instalar as dependências do projeto** digitando no terminal o comando:
 
